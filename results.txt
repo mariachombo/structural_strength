@@ -1,0 +1,15 @@
+Team Members: Nicholas Rosas, Raquel Figueroa, Maria Garcia, Thalia Villalobos
+
+Mean of coupon values for Steel:              18846.9
+Mean of coupon values for Graphite:           18581.4
+Max value of coupon values for Steel:         21065
+Max value of coupon values for Graphite:      20100
+Min value of coupon values for Steel:         17563
+Min value coupon values for Graphite:         17324
+Variance for Steel coupon values:          1.41793e+06
+Variance for Graphite coupon values:         894686
+Standard Deviation for Steel coupon values:    1190.77
+Standard Deviation for Graphite coupon values:  945.878
+
+
+Upon considering these two coupon data sets, we have concluded that neither material is suitable for the design consideration of an aircraft longeron construction. Although, both the steel and graphite coupons stress test results are above the necessary design factor of S = 2, not all of the data points of the design factor S = 2 or 16000N are within three standard deviations.
